@@ -4,7 +4,7 @@
 #nacos/nacos-server:v2.4.3
 #nacos/nacos-server:v2.1.0
 #redis
-homeassistant/home-assistant:latest
+#homeassistant/home-assistant:latest
 #ghcr.io/sozercan/llama3.1:8b
 #ghcr.io/open-webui/open-webui:ollama
 #ghcr.io/open-webui/open-webui:cuda
@@ -15,5 +15,5 @@ homeassistant/home-assistant:latest
 #docker.elastic.co/kibana/kibana:8.17.0
 #neo4j:5.26.0-community-bullseye
 #mongo:4.4
-docker.n8n.io/n8nio/n8n:latest
+#docker.n8n.io/n8nio/n8n:latest
 
